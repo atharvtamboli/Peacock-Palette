@@ -2,7 +2,6 @@
 
 A beautiful and intuitive color palette generator inspired by the vibrant colors of peacock feathers.
 
-![Peacock Palette Generator Screenshot](screenshot.png)
 
 ## Features
 
@@ -13,10 +12,6 @@ A beautiful and intuitive color palette generator inspired by the vibrant colors
 - 🌓 Dark mode support for comfortable viewing in any lighting
 - 📋 Quick copy-to-clipboard functionality for color codes
 - 🔄 "Inspire Me" feature with peacock-inspired color suggestions
-
-## Demo
-
-[View Live Demo](https://yourwebsite.com/peacock-palette) (Replace with your actual demo link when deployed)
 
 ## Installation
 
